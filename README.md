@@ -14,7 +14,7 @@
 #### Let's talk!
    <p>
       <a href="mailto:dawsonparente@gmail.com" target="_blank">
-           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/outlook.svg" />
+           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
       </a>
    </p>
 
