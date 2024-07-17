@@ -17,7 +17,6 @@
            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
       </a>
    </p>
-
 #### Working with
    <p>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" />   
@@ -31,7 +30,6 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" /> 
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" />    
    </p>
-
 #### Using
    <p>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
@@ -45,7 +43,6 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/playstation.svg" />
    </p>
-<br>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dawsonpdev&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="dawsonpdev" /></p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
