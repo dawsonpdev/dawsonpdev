@@ -3,7 +3,7 @@
 <div>
 <h3>💎 Full Stack Development Skills:</h3> 
 ✔ Front-end technologies such as HTML, CSS, JavaScript, TypeScript, and modern JavaScript frameworks like React, Angular, Next.js, and Vue.js.<br>
-✔ Experienced in back-end development using Nest.js, Express.js, C#/.NET/ASP.NET.<br>
+✔ Experienced in back-end development using PHP/Laravel, Nest.js, Express.js, C#/.NET/ASP.NET.<br>
 ✔ Database including PostgreSQL, MySql, MongoDB, SQLite and RESTful APIs, microservices architecture, and cloud platforms like AWS and Azure.<br>
 <h3>💎 Extra skills:</h3>
 ✔ Web Scraping with Selenium, Beautifulsoup, Playweight, Pandas, Scrapy, LXML, Puppetter.<br>
