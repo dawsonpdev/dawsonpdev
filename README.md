@@ -43,4 +43,6 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" />
    </p>
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dawsonpdev&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="dawsonpdev" /></p>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawsonpdev&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawsonpdev&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawsonpdev&theme=blue_green) |
+| :-: | :-: | :-: |
