@@ -11,13 +11,14 @@
 ✔ Mobile App developing with Flutter, Xamarin.<br>
 </div>
 
+<!--
 #### Let's talk!
    <p>
       <a href="mailto:dawsonparente@gmail.com" target="_blank">
            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
       </a>
    </p>
-
+-->
 #### Working with
    <p>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" />
@@ -44,5 +45,12 @@
    </p>
 -->
 <br>
-<p align="center"><img height="165em" src="https://github-readme-stats-p1rh.vercel.app/api?username=dawsonpdev&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/>
-<img height="165em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=dawsonpdev&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>
+<p align="center">
+<div align="center">
+     <img
+        src="https://github-profile-trophy.vercel.app/?username=dawsonpdev&theme=matrix&no-bg=true&no-frame=true&row=1&column=7">
+</div>
+<div align="center">  
+     <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=dawsonpdev&theme=radical" />
+     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawsonpdev&show_icons=true&layout=compact&theme=radical" />
+</div>
