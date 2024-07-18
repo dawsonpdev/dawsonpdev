@@ -44,5 +44,5 @@
    </p>
 -->
 <br>
-<p align="center"><img height="160em" src="https://github-readme-stats-p1rh.vercel.app/api?username=dawsonpdev&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/>
-<img height="160em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=dawsonpdev&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>
+<p align="center"><img height="170em" src="https://github-readme-stats-p1rh.vercel.app/api?username=dawsonpdev&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/>
+<img height="170em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=dawsonpdev&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>
