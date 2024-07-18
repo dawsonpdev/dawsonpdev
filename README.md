@@ -43,6 +43,5 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" />
    </p>
 <br>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawsonpdev&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawsonpdev&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawsonpdev&theme=blue_green) |
-| :-: | :-: | :-: |
+<p align="center"><img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=dawsonpdev&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/>
+<img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=dawsonpdev&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>
